@@ -1,0 +1,49 @@
+Neha Alex Email: nehaalex06@gmail.com
+LinkedIn: linkedin.com/in/neha-alex/ Mobile: +91-7907923640
+Github: github.com/Neha-alex
+Professional Summary
+Software Engineer with almost 2 years of experience developing and deploying scalable applications using Java, Spring Boot, and
+Angular. Proficient in building RESTful APIs, microservices architecture, and database management with SQL and Hibernate.
+Experienced in CI/CD and Kubernetes. Passionate about Generative AI and continuous learning.
+Education
+•
+Mar Athanasius College of Engineering Kothamangalam, India
+Bachelor of Technology - Electronics and Communication; CGPA: 8.2 July 2019 - June 2023
+Skills Summary
+• Programming Languages: Java, TypeScript, JavaScript
+• Frameworks & Technologies: Spring Boot, Java Web Services, Spring MVC, Angular, HTML, CSS
+• Databases & Backend Development: MySQL, Hibernate, RESTful API Development, Microservices, System Design,
+Data Structures and Algorithms
+• Development Tools & Practices: Git, Docker, Jenkins, Postman, Agile Methodologies, CI/CD Pipelines, Kubernetes
+• Soft Skills: Leadership, Problem-solver, Communicator, Focused, Open-minded, Team player
+EXPERIENCE
+• Application Developer : IBM India (Sept 2023 - Present)
+Java & Web Technologies
+◦ Designed, developed, and deployed full-stack Angular and Spring Boot applications with RESTful APIs and SQLoptimized databases.
+◦ Successfully delivered multiple user stories across Agile projects, collaborating with QA and cross-functional teams to
+integrate APIs, enhance system functionality, and improve scalability across multiple modules.
+◦ Performed application security scans such as SAST, SCA, and DAST to ensure secure code practices, and spearheaded
+the automation of SCA scans for 15+ repositories, improving efficiency and maximizing team productivity.
+◦ Analyzed production defects through logs and monitoring tools, identified root causes, and deployed timely fixes to ensure
+stability and reliability of production systems.
+◦ Championed best practices, upholding process guidelines, mentoring peers, and driving continuous improvement.
+Projects
+◦ Expense Tracker Application: A full-stack web application built with Angular and Spring Boot, enabling users to
+securely log in, track expenses and income, and visualize financial data with interactive charts.
+∗ Developed a full-stack expense tracking application using Spring Boot (backend) and Angular (frontend).
+∗ Built a responsive and dynamic UI with Angular, implementing components for expense logging, income tracking, and
+financial summaries.
+∗ Implemented JWT-based authentication using Spring Security for secure user login.
+∗ Designed RESTful APIs for seamless data exchange between the Angular frontend and Spring Boot backend.
+∗ Integrated MySQL database for CRUD operations to store and manage user financial data.
+∗ Created an interactive dashboard with Angular Charts to visualize income and expenses.
+◦ Microservices-based AQI Tracker and Health Advisory System with API Gateway: Designed and developed a
+microservices-based system to track air quality index (AQI) and provide health advisories based on real-time AQI data.
+∗ Technologies: Java, Spring Boot, Spring Cloud (Eureka, OpenFeign, API Gateway), REST APIs
+∗ Implemented service discovery using Eureka and inter-service communication with OpenFeign.
+∗ Designed an API Gateway for centralized request routing and load balancing.
+∗ Designed RESTful APIs for fetching AQI data and delivering health recommendations.
+∗ Ensured modularity and scalability by structuring the system into independent microservices.
+Certifications
+• Microsoft Certified Azure Fundamentals Certification: Covered Azure architecture, cloud computing concepts, and
+security best practices
