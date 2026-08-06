@@ -1,5 +1,9 @@
 from pypdf import PdfReader
 
+def load_file(path):
+    with open(path, "r", encoding="utf-8") as f:
+        return f.read()
+
 def load_resume():
     with open("data/resume.txt", "r", encoding="utf-8") as f:
         resume = f.read()
