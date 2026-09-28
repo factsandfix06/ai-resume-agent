@@ -26,26 +26,6 @@ def validate_chat_input(message, history):
 
     return True, None
 
-def validate_chat_input_method(message, history):
-    """
-    Validate chat request before sending it to the AI.
-    Returns (is_valid, error_message)
-    """
-
-    if not message or not message.strip():
-        return False, "Message cannot be empty."
-
-    if len(message) > 5000:
-        return False, "Message is too long."
-
-    if history is None:
-        return False, "Conversation history is missing."
-
-    if not isinstance(history, list):
-        return False, "History must be a list."
-
-    return True, None
-
 def chat(message, history):
     system_prompt = build_system_prompt()
     messages = [{"role": "system", "content": system_prompt}] + history + [{"role": "user", "content": message}]
